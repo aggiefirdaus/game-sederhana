@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1568614293 source:f:\cpp projects\item\main.cpp
+	<iostream>
+	<string>
+
+1571059358 source:d:\game\01 item\main.cpp
+	<iostream>
+	<string>
+

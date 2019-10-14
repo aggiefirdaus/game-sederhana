@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570453883 source:d:\game\kata\main.c
+	<stdio.h>
+	<conio.h>
+
+1570453883 source:d:\game\tugas\kata\main.c
+	<stdio.h>
+	<conio.h>
+
+1571060747 source:d:\game\project\game kata\main.c
+	<stdio.h>
+	<conio.h>
+

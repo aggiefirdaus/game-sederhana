@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1570453306 source:d:\game\game angka\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+
+1571060470 source:d:\game\tugas\game angka\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+
+1571060470 source:d:\game\project\game angka\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+

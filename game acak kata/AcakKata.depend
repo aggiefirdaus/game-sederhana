@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1569814627 source:f:\cpp projects\acakkata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1570965006 source:d:\game\03 acakkata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1571059614 source:d:\game\tugas\game acak kata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1571059614 source:d:\game\project\game acak kata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+

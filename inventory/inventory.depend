@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571053741 source:d:\game\inventory\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<conio.h>
+	<fstream>
+	<vector>
+
